@@ -1,0 +1,329 @@
+2024-07-15 22:40:20,475 - __main__ - INFO - INITIALISATION: start
+2024-07-15 22:41:22,732 - __main__ - INFO - INITIALISATION: start
+2024-07-15 22:42:25,255 - __main__ - INFO - INITIALISATION: start
+2024-07-15 22:42:25,268 - __main__ - INFO - INITIALISATION: end
+2024-07-15 22:42:25,268 - __main__ - INFO - STEP 0: start
+2024-07-15 22:42:25,681 - __main__ - INFO - STEP 0: end
+2024-07-15 22:42:25,681 - __main__ - INFO - STEP 1: start
+2024-07-15 22:42:25,828 - __main__ - INFO - STEP 1: end
+2024-07-15 22:42:54,400 - __main__ - INFO - INITIALISATION: start
+2024-07-15 22:42:54,410 - __main__ - INFO - INITIALISATION: end
+2024-07-15 22:42:54,410 - __main__ - INFO - STEP 0: start
+2024-07-15 22:42:54,598 - __main__ - INFO - STEP 0: end
+2024-07-15 22:42:54,598 - __main__ - INFO - STEP 1: start
+2024-07-15 22:42:54,745 - __main__ - INFO - STEP 1: end
+2024-07-15 22:42:54,745 - __main__ - INFO - STEP 2: start
+2024-07-15 22:42:54,981 - __main__ - INFO - STEP 2: end
+2024-07-15 22:42:54,981 - __main__ - INFO - STEP 3: start
+2024-07-15 22:42:55,358 - __main__ - INFO - STEP 3: end
+2024-07-15 22:42:55,358 - __main__ - INFO - STEP 4: start
+2024-07-15 22:42:55,873 - __main__ - INFO - STEP 4: end
+2024-07-15 22:42:55,873 - __main__ - INFO - STEP 5: start
+2024-07-15 22:42:56,504 - __main__ - INFO - STEP 5: end
+2024-07-15 22:42:56,504 - __main__ - INFO - STEP 6: start
+2024-07-15 22:42:57,239 - __main__ - INFO - STEP 6: end
+2024-07-15 22:42:57,239 - __main__ - INFO - STEP 7: start
+2024-07-15 22:42:58,076 - __main__ - INFO - STEP 7: end
+2024-07-15 22:42:58,076 - __main__ - INFO - STEP 8: start
+2024-07-15 22:42:59,035 - __main__ - INFO - STEP 8: end
+2024-07-15 22:42:59,036 - __main__ - INFO - STEP 9: start
+2024-07-15 22:43:00,154 - utils.Timer - INFO - current_fps= 1.741571
+2024-07-15 22:43:00,154 - __main__ - INFO - STEP 9: end
+2024-07-15 22:43:15,230 - __main__ - INFO - INITIALISATION: start
+2024-07-15 22:43:15,237 - __main__ - INFO - INITIALISATION: end
+2024-07-15 22:43:15,237 - __main__ - INFO - STEP 0: start
+2024-07-15 22:43:15,241 - __main__ - INFO - STEP 0: end
+2024-07-15 22:43:15,241 - __main__ - INFO - STEP 1: start
+2024-07-15 22:43:15,245 - __main__ - INFO - STEP 1: end
+2024-07-15 22:43:15,245 - __main__ - INFO - STEP 2: start
+2024-07-15 22:43:15,249 - __main__ - INFO - STEP 2: end
+2024-07-15 22:43:15,249 - __main__ - INFO - STEP 3: start
+2024-07-15 22:43:15,253 - __main__ - INFO - STEP 3: end
+2024-07-15 22:43:15,253 - __main__ - INFO - STEP 4: start
+2024-07-15 22:43:15,256 - __main__ - INFO - STEP 4: end
+2024-07-15 22:43:15,256 - __main__ - INFO - STEP 5: start
+2024-07-15 22:43:15,258 - __main__ - INFO - STEP 5: end
+2024-07-15 22:43:15,258 - __main__ - INFO - STEP 6: start
+2024-07-15 22:43:15,261 - __main__ - INFO - STEP 6: end
+2024-07-15 22:43:15,261 - __main__ - INFO - STEP 7: start
+2024-07-15 22:43:15,263 - __main__ - INFO - STEP 7: end
+2024-07-15 22:43:15,263 - __main__ - INFO - STEP 8: start
+2024-07-15 22:43:15,266 - __main__ - INFO - STEP 8: end
+2024-07-15 22:43:15,266 - __main__ - INFO - STEP 9: start
+2024-07-15 22:43:15,269 - utils.Timer - INFO - current_fps= 323.155819
+2024-07-15 22:43:15,269 - __main__ - INFO - STEP 9: end
+2024-07-15 22:52:28,143 - __main__ - INFO - INITIALISATION: start
+2024-07-15 22:52:28,144 - common.Simulator - DEBUG - velocities_x=
+[-0.420658 -0.305732 -0.226915 -0.456958 -0.695444]
+2024-07-15 22:52:28,145 - common.Simulator - DEBUG - velocities_y=
+[0.597319 0.958783 0.402915 0.639559 0.931998]
+2024-07-15 22:52:28,145 - common.Simulator - DEBUG - velocities_z=
+[-0.37661  -0.149375 -0.187241 -0.435593 -0.759405]
+2024-07-15 22:52:28,145 - common.Simulator - DEBUG - positions_x=
+[1.74668 1.70056 1.77301 1.81599 1.76612]
+2024-07-15 22:52:28,145 - common.Simulator - DEBUG - positions_y=
+[-19.0253 -19.0035 -19.013  -19.0531 -19.0548]
+2024-07-15 22:52:28,146 - common.Simulator - DEBUG - positions_z=
+[6.79166 6.83187 6.80016 6.82844 6.83716]
+2024-07-15 22:52:28,146 - __main__ - INFO - INITIALISATION: end
+2024-07-15 22:52:28,146 - __main__ - INFO - STEP 0: start
+2024-07-15 22:52:28,146 - common.Simulator - DEBUG - velocities_x=
+[-0.42058919 -0.30543309 -0.22697755 -0.45723499 -0.69547218]
+2024-07-15 22:52:28,147 - common.Simulator - DEBUG - velocities_y=
+[0.59729585 0.95865109 0.40283048 0.63967455 0.93212203]
+2024-07-15 22:52:28,147 - common.Simulator - DEBUG - velocities_z=
+[-0.37647929 -0.14944491 -0.1871527  -0.4356458  -0.7595013 ]
+2024-07-15 22:52:28,147 - common.Simulator - DEBUG - positions_x=
+[1.70462108 1.67001669 1.75031224 1.7702665  1.69657278]
+2024-07-15 22:52:28,147 - common.Simulator - DEBUG - positions_y=
+[-18.96557041 -18.90763489 -18.97271695 -18.98913255 -18.9615878 ]
+2024-07-15 22:52:28,147 - common.Simulator - DEBUG - positions_z=
+[6.75401207 6.81692551 6.78144473 6.78487542 6.76120987]
+2024-07-15 22:52:28,147 - __main__ - INFO - STEP 0: end
+2024-07-15 22:52:28,147 - __main__ - INFO - STEP 1: start
+2024-07-15 22:52:28,147 - common.Simulator - DEBUG - velocities_x=
+[-0.42052066 -0.30519191 -0.22713698 -0.45749397 -0.69536349]
+2024-07-15 22:52:28,147 - common.Simulator - DEBUG - velocities_y=
+[0.59732699 0.95839318 0.40289728 0.63982324 0.9321333 ]
+2024-07-15 22:52:28,148 - common.Simulator - DEBUG - velocities_z=
+[-0.37635117 -0.14963066 -0.18716144 -0.43567165 -0.75940908]
+2024-07-15 22:52:28,148 - common.Simulator - DEBUG - positions_x=
+[1.66256902 1.6394975  1.72759855 1.7245171  1.62703643]
+2024-07-15 22:52:28,148 - common.Simulator - DEBUG - positions_y=
+[-18.90583772 -18.81179557 -18.93242722 -18.92515022 -18.86837447]
+2024-07-15 22:52:28,148 - common.Simulator - DEBUG - positions_z=
+[6.71637695 6.80196244 6.76272859 6.74130826 6.68526896]
+2024-07-15 22:52:28,148 - __main__ - INFO - STEP 1: end
+2024-07-15 22:52:28,148 - __main__ - INFO - STEP 2: start
+2024-07-15 22:52:28,148 - common.Simulator - DEBUG - velocities_x=
+[-0.42045243 -0.30500858 -0.2273932  -0.45773481 -0.69511799]
+2024-07-15 22:52:28,148 - common.Simulator - DEBUG - velocities_y=
+[0.59741241 0.95800941 0.40311536 0.64000502 0.93203181]
+2024-07-15 22:52:28,149 - common.Simulator - DEBUG - velocities_z=
+[-0.37622568 -0.14993217 -0.18726721 -0.43567055 -0.75912839]
+2024-07-15 22:52:28,149 - common.Simulator - DEBUG - positions_x=
+[1.62052377 1.60899664 1.70485923 1.67874362 1.55752463]
+2024-07-15 22:52:28,149 - common.Simulator - DEBUG - positions_y=
+[-18.84609647 -18.71599463 -18.89211569 -18.86114972 -18.77517129]
+2024-07-15 22:52:28,149 - common.Simulator - DEBUG - positions_z=
+[6.67875439 6.78696923 6.74400187 6.6977412  6.60935612]
+2024-07-15 22:52:28,149 - __main__ - INFO - STEP 2: end
+2024-07-15 22:52:28,149 - __main__ - INFO - STEP 3: start
+2024-07-15 22:52:28,149 - common.Simulator - DEBUG - velocities_x=
+[-0.42038455 -0.30488319 -0.22774608 -0.45795739 -0.6947358 ]
+2024-07-15 22:52:28,149 - common.Simulator - DEBUG - velocities_y=
+[0.59755206 0.95749996 0.4034846  0.64021977 0.9318176 ]
+2024-07-15 22:52:28,149 - common.Simulator - DEBUG - velocities_z=
+[-0.3761029  -0.15034929 -0.18746995 -0.43564249 -0.75865937]
+2024-07-15 22:52:28,150 - common.Simulator - DEBUG - positions_x=
+[1.57848532 1.57850832 1.68208462 1.63294788 1.48805105]
+2024-07-15 22:52:28,150 - common.Simulator - DEBUG - positions_y=
+[-18.78634127 -18.62024464 -18.85176723 -18.79712774 -18.68198953]
+2024-07-15 22:52:28,150 - common.Simulator - DEBUG - positions_z=
+[6.6411441  6.7719343  6.72525487 6.65417695 6.53349019]
+2024-07-15 22:52:28,150 - __main__ - INFO - STEP 3: end
+2024-07-15 22:52:28,150 - __main__ - INFO - STEP 4: start
+2024-07-15 22:52:28,150 - common.Simulator - DEBUG - velocities_x=
+[-0.42031705 -0.3048158  -0.22819544 -0.45816161 -0.6942171 ]
+2024-07-15 22:52:28,150 - common.Simulator - DEBUG - velocities_y=
+[0.59774587 0.9568651  0.40400484 0.6404674  0.93149079]
+2024-07-15 22:52:28,150 - common.Simulator - DEBUG - velocities_z=
+[-0.37598288 -0.1508818  -0.18776957 -0.4355875  -0.75800225]
+2024-07-15 22:52:28,151 - common.Simulator - DEBUG - positions_x=
+[1.53645361 1.54802674 1.65926508 1.58713172 1.41862934]
+2024-07-15 22:52:28,151 - common.Simulator - DEBUG - positions_y=
+[-18.72656668 -18.52455813 -18.81136674 -18.733081   -18.58884045]
+2024-07-15 22:52:28,151 - common.Simulator - DEBUG - positions_z=
+[6.60354581 6.75684612 6.70647791 6.6106182  6.45768996]
+2024-07-15 22:52:28,151 - __main__ - INFO - STEP 4: end
+2024-07-15 22:52:28,151 - __main__ - INFO - STEP 5: start
+2024-07-15 22:52:28,151 - common.Simulator - DEBUG - velocities_x=
+[-0.42024995 -0.30480644 -0.22874107 -0.45834736 -0.69356217]
+2024-07-15 22:52:28,151 - common.Simulator - DEBUG - velocities_y=
+[0.59799376 0.95610513 0.4046758  0.64074778 0.93105154]
+2024-07-15 22:52:28,151 - common.Simulator - DEBUG - velocities_z=
+[-0.37586568 -0.15152944 -0.18816592 -0.43550559 -0.75715736]
+2024-07-15 22:52:28,151 - common.Simulator - DEBUG - positions_x=
+[1.49442862 1.5175461  1.63639097 1.54129699 1.34927313]
+2024-07-15 22:52:28,151 - common.Simulator - DEBUG - positions_y=
+[-18.66676731 -18.42894761 -18.77089916 -18.66900622 -18.49573529]
+2024-07-15 22:52:28,152 - common.Simulator - DEBUG - positions_z=
+[6.56595924 6.74169317 6.68766132 6.56706764 6.38197422]
+2024-07-15 22:52:28,152 - __main__ - INFO - STEP 5: end
+2024-07-15 22:52:28,152 - __main__ - INFO - STEP 6: start
+2024-07-15 22:52:28,152 - common.Simulator - DEBUG - velocities_x=
+[-0.42018331 -0.30485513 -0.2293827  -0.45851455 -0.69277132]
+2024-07-15 22:52:28,152 - common.Simulator - DEBUG - velocities_y=
+[0.59829558 0.95522044 0.40549715 0.64106077 0.93050006]
+2024-07-15 22:52:28,152 - common.Simulator - DEBUG - velocities_z=
+[-0.37575137 -0.15229189 -0.1886588  -0.43539681 -0.75612513]
+2024-07-15 22:52:28,152 - common.Simulator - DEBUG - positions_x=
+[1.45241029 1.48706059 1.6134527  1.49544553 1.279996  ]
+2024-07-15 22:52:28,153 - common.Simulator - DEBUG - positions_y=
+[-18.60693775 -18.33342557 -18.73034945 -18.60490015 -18.40268529]
+2024-07-15 22:52:28,153 - common.Simulator - DEBUG - positions_z=
+[6.5283841  6.72646398 6.66879544 6.52352796 6.30636171]
+2024-07-15 22:52:28,153 - __main__ - INFO - STEP 6: end
+2024-07-15 22:52:28,153 - __main__ - INFO - STEP 7: start
+2024-07-15 22:52:28,153 - common.Simulator - DEBUG - velocities_x=
+[-0.42011714 -0.30496184 -0.23011999 -0.45866308 -0.69184495]
+2024-07-15 22:52:28,153 - common.Simulator - DEBUG - velocities_y=
+[0.5986512  0.95421146 0.40646848 0.64140622 0.92983663]
+2024-07-15 22:52:28,153 - common.Simulator - DEBUG - velocities_z=
+[-0.37564    -0.15316877 -0.18924796 -0.43526121 -0.75490606]
+2024-07-15 22:52:28,154 - common.Simulator - DEBUG - positions_x=
+[1.41039857 1.4565644  1.5904407  1.44957922 1.2108115 ]
+2024-07-15 22:52:28,154 - common.Simulator - DEBUG - positions_y=
+[-18.54707263 -18.23800442 -18.6897026  -18.54075952 -18.30970162]
+2024-07-15 22:52:28,154 - common.Simulator - DEBUG - positions_z=
+[6.4908201  6.71114711 6.64987064 6.48000184 6.23087111]
+2024-07-15 22:52:28,154 - __main__ - INFO - STEP 7: end
+2024-07-15 22:52:28,154 - __main__ - INFO - STEP 8: start
+2024-07-15 22:52:28,154 - common.Simulator - DEBUG - velocities_x=
+[-0.42005148 -0.30512651 -0.23095259 -0.4587929  -0.69078352]
+2024-07-15 22:52:28,154 - common.Simulator - DEBUG - velocities_y=
+[0.59906043 0.95307871 0.40758932 0.64178396 0.92906159]
+2024-07-15 22:52:28,155 - common.Simulator - DEBUG - velocities_z=
+[-0.37553163 -0.15415964 -0.18993311 -0.43509886 -0.75350076]
+2024-07-15 22:52:28,155 - common.Simulator - DEBUG - positions_x=
+[1.36839343 1.42605175 1.56734544 1.40369993 1.14173315]
+2024-07-15 22:52:28,155 - common.Simulator - DEBUG - positions_y=
+[-18.48716659 -18.14269655 -18.64894367 -18.47658113 -18.21679546]
+2024-07-15 22:52:28,155 - common.Simulator - DEBUG - positions_z=
+[6.45326694 6.69573114 6.63087733 6.43649196 6.15552103]
+2024-07-15 22:52:28,155 - __main__ - INFO - STEP 8: end
+2024-07-15 22:52:28,155 - __main__ - INFO - STEP 9: start
+2024-07-15 22:52:28,155 - common.Simulator - DEBUG - velocities_x=
+[-0.41998636 -0.30534906 -0.23188007 -0.45890394 -0.68958757]
+2024-07-15 22:52:28,155 - common.Simulator - DEBUG - velocities_y=
+[0.59952307 0.95182274 0.40885909 0.64219379 0.92817531]
+2024-07-15 22:52:28,156 - common.Simulator - DEBUG - velocities_z=
+[-0.3754263  -0.155264   -0.19071391 -0.43490984 -0.75190994]
+2024-07-15 22:52:28,156 - common.Simulator - DEBUG - positions_x=
+[1.32639479 1.39551685 1.54415743 1.35780954 1.07277439]
+2024-07-15 22:52:28,156 - common.Simulator - DEBUG - positions_y=
+[-18.42721428 -18.04751428 -18.60805776 -18.41236175 -18.12397793]
+2024-07-15 22:52:28,156 - common.Simulator - DEBUG - positions_z=
+[6.41572431 6.68020474 6.61180594 6.39300097 6.08033004]
+2024-07-15 22:52:28,156 - utils.Timer - INFO - current_fps= 1050.914284
+2024-07-15 22:52:28,156 - __main__ - INFO - STEP 9: end
+2024-07-15 22:52:35,228 - __main__ - INFO - INITIALISATION: start
+2024-07-15 22:52:35,230 - common.Simulator - DEBUG - velocities_x=
+[-0.420658 -0.305732 -0.226915 -0.456958 -0.695444]
+2024-07-15 22:52:35,230 - common.Simulator - DEBUG - velocities_y=
+[0.597319 0.958783 0.402915 0.639559 0.931998]
+2024-07-15 22:52:35,230 - common.Simulator - DEBUG - velocities_z=
+[-0.37661  -0.149375 -0.187241 -0.435593 -0.759405]
+2024-07-15 22:52:35,230 - common.Simulator - DEBUG - positions_x=
+[1.74668 1.70056 1.77301 1.81599 1.76612]
+2024-07-15 22:52:35,230 - common.Simulator - DEBUG - positions_y=
+[-19.0253 -19.0035 -19.013  -19.0531 -19.0548]
+2024-07-15 22:52:35,231 - common.Simulator - DEBUG - positions_z=
+[6.79166 6.83187 6.80016 6.82844 6.83716]
+2024-07-15 22:52:35,232 - common.Simulator - DEBUG - velocities_x=
+dask.array<array, shape=(5,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:52:35,232 - common.Simulator - DEBUG - velocities_y=
+dask.array<array, shape=(5,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:52:35,232 - common.Simulator - DEBUG - velocities_z=
+dask.array<array, shape=(5,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:52:35,232 - common.Simulator - DEBUG - positions_x=
+dask.array<array, shape=(5,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:52:35,232 - common.Simulator - DEBUG - positions_y=
+dask.array<array, shape=(5,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:52:35,232 - common.Simulator - DEBUG - positions_z=
+dask.array<array, shape=(5,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:52:35,232 - common.Simulator - DEBUG - masses=
+dask.array<array, shape=(5, 1), dtype=float64, chunksize=(5, 1), chunktype=numpy.ndarray>
+2024-07-15 22:52:35,232 - __main__ - INFO - INITIALISATION: end
+2024-07-15 22:52:35,233 - __main__ - INFO - STEP 0: start
+2024-07-15 22:52:35,457 - __main__ - INFO - STEP 0: end
+2024-07-15 22:52:35,457 - __main__ - INFO - STEP 1: start
+2024-07-15 22:52:35,673 - __main__ - INFO - STEP 1: end
+2024-07-15 22:52:35,674 - __main__ - INFO - STEP 2: start
+2024-07-15 22:52:36,047 - __main__ - INFO - STEP 2: end
+2024-07-15 22:52:36,047 - __main__ - INFO - STEP 3: start
+2024-07-15 22:52:36,647 - __main__ - INFO - STEP 3: end
+2024-07-15 22:52:36,647 - __main__ - INFO - STEP 4: start
+2024-07-15 22:52:37,371 - __main__ - INFO - STEP 4: end
+2024-07-15 22:52:37,371 - __main__ - INFO - STEP 5: start
+2024-07-15 22:52:38,239 - __main__ - INFO - STEP 5: end
+2024-07-15 22:52:38,240 - __main__ - INFO - STEP 6: start
+2024-07-15 22:52:39,337 - __main__ - INFO - STEP 6: end
+2024-07-15 22:52:39,337 - __main__ - INFO - STEP 7: start
+2024-07-15 22:52:40,599 - __main__ - INFO - STEP 7: end
+2024-07-15 22:52:40,600 - __main__ - INFO - STEP 8: start
+2024-07-15 22:52:41,994 - __main__ - INFO - STEP 8: end
+2024-07-15 22:52:41,995 - __main__ - INFO - STEP 9: start
+2024-07-15 22:52:43,597 - utils.Timer - INFO - current_fps= 1.195827
+2024-07-15 22:52:43,597 - __main__ - INFO - STEP 9: end
+2024-07-15 22:54:11,690 - __main__ - INFO - INITIALISATION: start
+2024-07-15 22:54:11,692 - common.Simulator - DEBUG - velocities_x=
+[-0.420658  -0.305732  -0.226915  -0.456958  -0.695444  -0.483433
+ -0.443397  -0.737709  -0.572025  -0.773282  -0.596702  -0.363113
+ -0.214266  -0.632903   0.103137  -0.786619  -0.42511   -0.0593864
+  0.0631914 -0.325297   0.0541976 -0.250559  -0.478727   0.138597
+ -0.878959  -0.792535  -0.816153  -0.602152  -0.802855  -0.390855
+  0.173618   0.117082  -0.453628  -0.143404  -0.600288   0.353903
+ -1.14822   -0.667064  -0.26528   -0.695239   0.0299025  0.305969
+  0.34233   -0.0547578 -0.253273  -0.155659   0.176231  -0.0835641
+ -0.210241  -0.475905 ]
+2024-07-15 22:54:11,693 - common.Simulator - DEBUG - velocities_y=
+[0.597319 0.958783 0.402915 0.639559 0.931998 0.362284 0.535203 0.845112
+ 1.37572  0.381192 1.22947  0.367353 1.16807  1.07188  1.09733  0.553574
+ 0.540804 1.33292  1.07987  0.317494 0.690252 1.52145  1.25416  0.564962
+ 0.393101 0.631312 0.851269 0.729098 0.745528 1.51859  1.28707  0.788854
+ 0.348022 0.76511  0.595275 0.457643 0.314197 0.521464 0.826582 1.41766
+ 0.315314 1.0899   0.654606 1.58368  1.06023  0.247121 1.08324  1.29753
+ 1.23395  0.651229]
+2024-07-15 22:54:11,693 - common.Simulator - DEBUG - velocities_z=
+[-0.37661   -0.149375  -0.187241  -0.435593  -0.759405  -0.433775
+ -0.415921  -0.827197  -0.16096   -0.298558  -0.342374  -0.256817
+  0.241418  -0.637859  -0.308991  -0.350828  -0.755788  -0.312067
+ -0.560964  -0.368678  -0.170641  -0.153152   0.35276   -0.681371
+ -0.45478   -0.290588  -0.938396  -0.564282  -1.2128    -0.0466
+ -0.504129   0.228813  -0.721059  -0.159878  -0.504403  -0.785219
+ -0.415461  -0.0482889 -0.696631   0.0627008 -0.117471  -1.09828
+ -0.20328    0.0793108 -1.31902    0.0476759 -0.596374   0.161949
+ -0.792626  -0.63815  ]
+2024-07-15 22:54:11,694 - common.Simulator - DEBUG - positions_x=
+[1.74668 1.70056 1.77301 1.81599 1.76612 1.76562 1.69742 1.74097 1.70505
+ 1.76395 1.66009 1.80653 1.68871 1.71912 1.76783 1.73704 1.82856 1.66061
+ 1.71535 1.84678 1.79518 1.73804 1.67811 1.78295 1.81123 1.72113 1.71454
+ 1.7597  1.79136 1.66261 1.75355 1.65251 1.73538 1.78234 1.85568 1.79788
+ 1.75548 1.76371 1.61529 1.64    1.85269 1.70658 1.76329 1.65897 1.73499
+ 1.83495 1.68805 1.78858 1.62948 1.8202 ]
+2024-07-15 22:54:11,694 - common.Simulator - DEBUG - positions_y=
+[-19.0253 -19.0035 -19.013  -19.0531 -19.0548 -19.0317 -19.0138 -19.0844
+ -19.0661 -19.1034 -19.0694 -19.0127 -19.0318 -19.0313 -19.0456 -19.1418
+ -19.108  -19.0497 -18.9648 -19.082  -19.0147 -19.0712 -19.0555 -18.9752
+ -19.1279 -19.1651 -19.1183 -19.0421 -19.0742 -18.9737 -18.9316 -19.0327
+ -19.1537 -19.0614 -19.1532 -19.0283 -19.1167 -19.1259 -19.0249 -19.0899
+ -18.9837 -19.0216 -19.0229 -19.0238 -19.056  -19.0057 -19.0024 -19.0022
+ -18.951  -19.0603]
+2024-07-15 22:54:11,694 - common.Simulator - DEBUG - positions_z=
+[6.79166 6.83187 6.80016 6.82844 6.83716 6.84715 6.73435 6.75588 6.82502
+ 6.80479 6.77171 6.85303 6.8169  6.70017 6.87229 6.81504 6.78479 6.83013
+ 6.85092 6.78952 6.71083 6.86616 6.79042 6.73598 6.79632 6.83992 6.73333
+ 6.93485 6.76752 6.81328 6.80229 6.7769  6.84983 6.93065 6.82122 6.82095
+ 6.77553 6.69481 6.71252 6.81483 6.80327 6.78758 6.69938 6.80242 6.86692
+ 6.86579 6.68673 6.69584 6.84917 6.64774]
+2024-07-15 22:54:11,695 - common.Simulator - DEBUG - velocities_x=
+dask.array<array, shape=(50,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:54:11,696 - common.Simulator - DEBUG - velocities_y=
+dask.array<array, shape=(50,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:54:11,696 - common.Simulator - DEBUG - velocities_z=
+dask.array<array, shape=(50,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:54:11,696 - common.Simulator - DEBUG - positions_x=
+dask.array<array, shape=(50,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:54:11,696 - common.Simulator - DEBUG - positions_y=
+dask.array<array, shape=(50,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:54:11,696 - common.Simulator - DEBUG - positions_z=
+dask.array<array, shape=(50,), dtype=float64, chunksize=(5,), chunktype=numpy.ndarray>
+2024-07-15 22:54:11,696 - common.Simulator - DEBUG - masses=
+dask.array<array, shape=(50, 1), dtype=float64, chunksize=(5, 1), chunktype=numpy.ndarray>
+2024-07-15 22:54:11,696 - __main__ - INFO - INITIALISATION: end
+2024-07-15 22:54:11,696 - __main__ - INFO - STEP 0: start
+2024-07-15 22:54:14,462 - __main__ - INFO - STEP 0: end
+2024-07-15 22:54:14,463 - __main__ - INFO - STEP 1: start
+2024-07-15 22:54:33,508 - __main__ - INFO - STEP 1: end
+2024-07-15 22:54:33,508 - __main__ - INFO - STEP 2: start
